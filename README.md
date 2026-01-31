@@ -1,20 +1,16 @@
-<div align="center">
-
 # Hey, I'm Jhaell
 
-```python
-class xjhaell:
-    role       = "PhD Researcher"
-    focus      = "Cybersecurity"
-    university = "UNLV"
-    location   = "Las Vegas, NV"
-    website    = "https://jhaell.com"
-    repos      = "mostly private"
+```cpp
+class xjhaell {
+    public:
+        string role       = "PhD Researcher";
+        string focus      = "Cybersecurity";
+        string university = "UNLV";
+        string location   = "Las Vegas, NV";
+        string website    = "https://jhaell.com";
+        string repos      = "mostly private";
+};
 ```
-
-</div>
-
----
 
 <div align="center">
 
