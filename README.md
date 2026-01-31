@@ -2,22 +2,17 @@
 
 # Hey, I'm Jhaell
 
-<img src="https://raw.githubusercontent.com/triniter/ActionGlitch/main/assets/images/glitch.gif" width="0" height="0">
-
-```
-╔══════════════════════════════════════╗
-║  PhD Researcher | Cybersecurity      ║
-║  UNLV | Las Vegas, NV                ║
-╚══════════════════════════════════════╝
+```python
+class xjhaell:
+    role       = "PhD Researcher"
+    focus      = "Cybersecurity"
+    university = "UNLV"
+    location   = "Las Vegas, NV"
+    website    = "https://jhaell.com"
+    repos      = "mostly private"
 ```
 
 </div>
-
----
-
-## About Me
-
-PhD student at the University of Nevada, Las Vegas focusing on cybersecurity. Most of my repositories are private, either works in progress or research that hasn't been published yet.
 
 ---
 
